@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [MEC Application Development in a Cloud Native Way](README.md)
 
