@@ -1,2 +1,2 @@
-# MEC Application Development in a Cloud Native Way
+# Developing MEC Applications in a Cloud Native Way
 

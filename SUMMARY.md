@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MEC Application Development in a Cloud Native Way](README.md)
+* [Developing MEC Applications in a Cloud Native Way](README.md)
 * [Introduction](introduction.md)
 
 ## MEC
